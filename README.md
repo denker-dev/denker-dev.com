@@ -1,3 +1,3 @@
-# http://denker-dev.com
+# http://denker-dev.github.io
 
 
