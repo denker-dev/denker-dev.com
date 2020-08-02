@@ -1,0 +1,28 @@
+@media screen{
+    body{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    }
+    ul#entre div:hover{
+        background-color: black;
+        box-shadow: 0vw 0vw 1vw rgba(2, 245, 144, 0.964);
+    }
+    ul#sigah img:hover{
+        filter: brightness(25%);
+    }
+
+
+}
+
+
+
+
+@media (max-width: 19cm){
+
+.imagem{
+    margin-left: -4vw;
+    
+}
+
+
+}
